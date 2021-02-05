@@ -1,9 +1,9 @@
-### Working on
+### Things I'm currently working on
 
 - [Launchdeck](https://launchdeck.io) - a deployment service for humans
 - Various private projects
 
-### Fan of
+### Cool technologies I'm currently using
 
 - TypeScript
 - GraphQL
