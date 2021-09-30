@@ -1,7 +1,7 @@
 ### Things I'm currently working on
 
 - [Launchdeck](https://launchdeck.io) - a deployment service for humans
-- Various private projects
+- Some proprietary enterprise software
 
 ### Cool technologies I'm currently using
 
